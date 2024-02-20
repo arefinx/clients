@@ -19,7 +19,7 @@ const data = [
     icon: faFacebookF,
   },
   {
-    link: 'https://www.instagram.com/mockinjay_bash/',
+    link: 'https://www.instagram.com/mockingjay_bash/',
     label: 'Instagram',
     icon: faInstagram,
   },

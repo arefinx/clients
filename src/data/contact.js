@@ -9,19 +9,9 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/jayedul-bashar',
-    label: 'Github',
-    icon: faGithub,
-  },
-  {
-    link: 'https://facebook.com/syedjayedulbashar',
-    label: 'Facebook',
-    icon: faFacebookF,
-  },
-  {
-    link: 'https://www.instagram.com/mockingjay_bash/',
-    label: 'Instagram',
-    icon: faInstagram,
+    link: 'mailto:jayeduldu@gmail.com',
+    label: 'Email',
+    icon: faEnvelope,
   },
   {
     link: 'https://www.linkedin.com/in/jayedul-bashar',
@@ -34,9 +24,19 @@ const data = [
     icon: faTwitter,
   },
   {
-    link: 'mailto:jayeduldu@gmail.com',
-    label: 'Email',
-    icon: faEnvelope,
+    link: 'https://github.com/jayedul-bashar',
+    label: 'Github',
+    icon: faGithub,
+  },
+  {
+    link: 'https://www.instagram.com/mockingjay_bash/',
+    label: 'Instagram',
+    icon: faInstagram,
+  },
+  {
+    link: 'https://facebook.com/syedjayedulbashar',
+    label: 'Facebook',
+    icon: faFacebookF,
   },
 ];
 

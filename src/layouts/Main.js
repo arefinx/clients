@@ -11,7 +11,6 @@ const Main = (props) => (
   <HelmetProvider>
     <Analytics />
     <ScrollToTop />
-<<<<<<< HEAD
     <Helmet
       titleTemplate="%s | Jayedul Bashar"
       defaultTitle="Jayedul Bashar"

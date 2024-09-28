@@ -1,4 +1,4 @@
-]import React from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Main from '../layouts/Main';
@@ -7,14 +7,13 @@ import Cell from '../components/Projects/Cell';
 import data from '../data/projects';
 
 const Projects = () => (
-  <Main
-    title="Projects"
-    description="Learn about Jayedul Bashar's projects."
-  >
+  <Main title="Projects" description="Learn about Jayedul Bashar's projects.">
     <article className="post" id="projects">
       <header>
         <div className="title">
-          <h2><Link to="/projects">Projects</Link></h2>
+          <h2>
+            <Link to="/projects">Projects</Link>
+          </h2>
           <p>A selection of projects that I&apos;m absolutely proud of</p>
         </div>
       </header>

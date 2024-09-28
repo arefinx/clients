@@ -6,15 +6,15 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Michael D'Angelo's personal website. New York based Stanford ICME graduate, "
-      + 'VP of Engineering at Smile Identity, co-founder of Arthena and Matroid, and YC Alumni.'
+      "Jayedul Bashar's personal website. New York based Stanford ICME graduate, "
+      + 'Senior Research Assistant at icddr,b.'
     }
   >
     <article className="post" id="index">
       <header>
         <div className="title">
           <h2>
-            <Link to="/">About this site</Link>
+            <Link to="/">Discovering Tomorrow: Exploring Frontiers in Research</Link>
           </h2>
           <p>
             A beautiful, responsive, statically-generated, react application
